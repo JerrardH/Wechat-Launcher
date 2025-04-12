@@ -82,22 +82,35 @@ In this way, the computer can directly receive wechat message notifications for 
 
 
 <!-- GETTING STARTED -->
-## Getting Started 上手
+## Getting Started 快速上手
 
 
 
 
 ### Installation 安装方式
+#### Regular user 一般安装
+<ol>
+<li>在Download Wechat Launcher文件夹下载zip后解压 </li>
+<li>双击install.exe</li>
+</ol>
 
 <ol>
-<li>下载微信启动器.exe后放到一个喜欢的位置用于长期保存（文件删除后=卸载程序）</li>
+<li>Download the .zip file from "Download Wechat Launcher" folder </li>
+<li>Double click "install.exe"</li>
+</ol>
+
+#### Protable version 可移植程序
+<ol>
+<li>下载微信启动器.zip后解压 </li>
+<li>把WeChat Launcher.exe放到一个喜欢的位置用于长期保存（文件删除=卸载程序）</li>
 <li>右键微信启动器.exe，创建快捷方式，剪切快捷方式</li>
 <li>win+R输入shell:startup后，粘贴快捷方式至文件夹</li>
 <li>重启电脑</li>
 </ol>
 
 <ol>
-<li>After downloading `WeChatLauncher.exe`, place it in a preferred location for long-term storage (deleting the file = uninstalling the program)</li>
+<li>Download and unzip WeChat Launcher.zip </li>
+<li>Place `WeChat Launcher.exe` in a preferred location for long-term storage (deleting the file = uninstalling the program)</li>
 <li>Right-click on `WeChatLauncher.exe`, create a shortcut, then cut the shortcut</li>
 <li>Press `Win + R`, enter `shell:startup`, and paste the shortcut into the folder</li>
 <li>Restart your computer</li>
@@ -112,9 +125,26 @@ In this way, the computer can directly receive wechat message notifications for 
 
 在微信启动器运行过程中，使用各种输入（鼠标，键盘）都会打断微信自动登录。
 
+在微信不需要手机验证之后，成为完全自动登录
+
 During the operation of WeChat launcher, inputs (mouse, keyboard) will interrupt WeChat automatic login.
 
+After Wechat does not need phone authentification, it becomes fully automated.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- Version History -->
+## Version History 版本历史
+### Wechat Launcher 1.0.0.0
+- 新增多语言支持
+- 新增对微信4.0.3版本的支持
+- 新增快速安装方式
+- 修复了在微信已经打开但是没有登录的时候不会自动登录的bug
+
+- Multi-language support
+- Added support for Wechat version 4.0.3
+- Added Quick installation method
+- Fixed a bug where Wechat would not automatically log in when it was already open but not logged in
 
 
 
