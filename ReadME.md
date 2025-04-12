@@ -90,12 +90,12 @@ In this way, the computer can directly receive wechat message notifications for 
 ### Installation 安装方式
 #### Regular user 一般安装
 <ol>
-<li>在 [Download Wechat Launcher](./Download%20Wechat%20Launcher) 文件夹下载zip后解压 </li>
+<li>在 [这里](https://github.com/JerrardH/Wechat-Launcher/tree/main/Download%20Wechat%20Launcher) 下载zip后解压 </li>
 <li>双击install.exe</li>
 </ol>
 
 <ol>
-<li>Download the .zip file from [Download Wechat Launcher](./Download%20Wechat%20Launcher) folder </li>
+<li>Download the .zip file from [here](https://github.com/JerrardH/Wechat-Launcher/tree/main/Download%20Wechat%20Launcher) </li>
 <li>Double click "install.exe"</li>
 </ol>
 
